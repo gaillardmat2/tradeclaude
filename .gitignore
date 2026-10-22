@@ -1,0 +1,4 @@
+# Day-trader runtime output: keep only the rules config in git
+trader/*
+!trader/config.json
+__pycache__/
